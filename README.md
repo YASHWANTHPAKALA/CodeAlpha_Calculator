@@ -1,6 +1,9 @@
 # CodeAlpha Calculator
 
 A simple calculator developed using HTML, CSS, and JavaScript as part of the CodeAlpha Frontend Development Internship.
+## Screenshot
+
+![Calculator](calculator.png)
 
 ## Features
 
